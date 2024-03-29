@@ -1,3 +1,4 @@
+<img src="<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FMUxku3sdkISX1I4eNZ9BX0%2FGenerative-AI%3Ftype%3Dwhiteboard%26node-id%3D0%253A1%26t%3DExfa15BBWWg2C49i-1" allowfullscreen></iframe>" alt="Girl in a jacket">
 <h1 align="center">Hi 👋, I'm Gopal Dwivedi</h1>
 <h3 align="center">A GenAI enthusiast from India</h3>
 
