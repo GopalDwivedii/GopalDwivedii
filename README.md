@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1BqJ2P7ipxgVDIJN4VpoAx_Q949saJho1/view?usp=drivesdk)]
+[![MasterHead](src="https://drive.google.com/file/d/1BqJ2P7ipxgVDIJN4VpoAx_Q949saJho1/view?usp=drivesdk")]
 <h1 align="center">Hi 👋, I'm Gopal Dwivedi</h1>
 <h3 align="center">A GenAI enthusiast from India</h3>
 
