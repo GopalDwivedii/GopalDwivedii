@@ -1,4 +1,4 @@
-<img width="800" height="450" src="https://www.canva.com/design/DAGA3G9USEQ/oMTM7BEvh5pA-etdWhIHbw/edit?utm_content=DAGA3G9USEQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" >
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Gopal Dwivedi</h1>
 <h3 align="center">A GenAI enthusiast from India</h3>
 
