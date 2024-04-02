@@ -1,5 +1,6 @@
 
-![Generative AI](https://github.com/GopalDwivedii/GopalDwivedii/assets/86095039/5b29084b-ae90-49ea-a60d-873ab76c2c42)
+![Generative AI-modified](https://github.com/GopalDwivedii/GopalDwivedii/assets/86095039/c11ae62e-a5e4-4097-8ce8-7dbbc32d7378)
+
 
 <h1 align="center">Hi 👋, I'm Gopal Dwivedi</h1>  
 
