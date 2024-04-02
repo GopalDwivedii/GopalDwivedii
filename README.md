@@ -1,4 +1,9 @@
-https://github.com/GopalDwivedii/GopalDwivedii/assets/86095039/13ee7551-52d4-41a5-8833-e2113e82133a
+<div style="text-align:center;">
+  <video controls autoplay>
+    <source src="https://github.com/GopalDwivedii/GopalDwivedii/assets/86095039/13ee7551-52d4-41a5-8833-e2113e82133a.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 <h1 align="center">Hi 👋, I'm Gopal Dwivedi</h1>
 <h3 align="center">A GenAI enthusiast from India</h3>
