@@ -1,7 +1,6 @@
-
-![github-header-image (3)](https://github.com/GopalDwivedii/GopalDwivedii/assets/86095039/34e2deaa-bb88-43c5-82f2-f9e5fcca3a3a)
-
-
+<p align="center">
+    <img width="990" src="https://github.com/GopalDwivedii/GopalDwivedii/assets/86095039/34e2deaa-bb88-43c5-82f2-f9e5fcca3a3a" alt="Material Bread logo">
+</p>
 
 <h1 align="center">Hi 👋, I'm Gopal Dwivedi</h1>  
 
