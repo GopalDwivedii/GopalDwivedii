@@ -1,4 +1,3 @@
-![github-header-image]//(https://github.com/GopalDwivedii/GopalDwivedii/assets/86095039/d7d92260-4699-4c05-8926-4fd1630671ca)
 ![_cc691c2a-9894-4e5a-8390-297652ca84d5](https://github.com/GopalDwivedii/GopalDwivedii/assets/86095039/4cd80e3e-86f1-4c32-8d2e-74f85785b459)
 
 
