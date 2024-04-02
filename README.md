@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gopal Dwivedi</h1>  
 
-![textureReal](https://github.com/GopalDwivedii/GopalDwivedii/assets/86095039/91a715c6-ee93-4a88-a17e-0f8e2fd016ab)
+![textureImage](https://github.com/GopalDwivedii/GopalDwivedii/assets/86095039/212f3180-6197-431e-b922-535af28f93bc)
 
 <h3 align="center">A GenAI enthusiast from India</h3>
 
