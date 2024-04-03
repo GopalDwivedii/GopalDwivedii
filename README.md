@@ -8,7 +8,8 @@
 
 <h3 align="center">A GenAI enthusiast from India</h3>
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="gopal-dwivedi-engineer-programmer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/gopal-dwivedi-engineer-programmer?trk=profile-badge">Gopal Dwivedi</a></div>
+              
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gopal dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopal dwivedi" height="30" width="40" /></a>
