@@ -7,8 +7,6 @@
 ![textureImage](https://github.com/GopalDwivedii/GopalDwivedii/assets/86095039/212f3180-6197-431e-b922-535af28f93bc)
 
 <h3 align="center">A GenAI enthusiast from India</h3>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="gopal-dwivedi-engineer-programmer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/gopal-dwivedi-engineer-programmer?trk=profile-badge">Gopal Dwivedi</a></div>
               
 <h3 align="left">Connect with me:</h3>
 <p align="left">
