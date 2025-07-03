@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **gopal02112004@gmail.com**
 
+<div class="tenor-gif-embed" data-postid="1636319588113633319" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/zaraki-kenpachi-kenpachi-bleach-anime-bleach-flames-gif-1636319588113633319">Zaraki Kenpachi Bleach Anime GIF</a>from <a href="https://tenor.com/search/zaraki+kenpachi-gifs">
+
+<p></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gopal-dwivedi-engineer-programmer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopal-dwivedi-engineer-programmer/" height="30" width="40" /></a>
@@ -19,5 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopaldwivedii&show_icons=true&locale=en&layout=compact" alt="gopaldwivedii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopaldwivedii&show_icons=true&locale=en" alt="gopaldwivedii" /></p>
 
