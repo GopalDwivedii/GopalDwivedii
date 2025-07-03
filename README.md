@@ -8,8 +8,7 @@
 - 🔭 I’m currently working on [Civix](https://github.com/HarshS16/Civix)
 
 - 📫 How to reach me **gopal02112004@gmail.com**
-
-<div class="tenor-gif-embed" data-postid="1636319588113633319" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/zaraki-kenpachi-kenpachi-bleach-anime-bleach-flames-gif-1636319588113633319">Zaraki Kenpachi Bleach Anime GIF</a>from <a href="https://tenor.com/search/zaraki+kenpachi-gifs">
+![Zaraki Kenpachi](assets/zaraki-kenpachi-kenpachi.gif)
 
 <p></p>
 <h3 align="left">Connect with me:</h3>
