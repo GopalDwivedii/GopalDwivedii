@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Civix](https://github.com/HarshS16/Civix)
 <p></p>
 
-![Zaraki Kenpachi](assets/zaraki-kenpachi-kenpachi.gif)
+<img src="assets/zaraki-kenpachi-kenpachi.gif" alt="Zaraki Kenpachi" width="600" height="400"/>
 <p></p>
 - 📫 How to reach me **gopal02112004@gmail.com**
 
