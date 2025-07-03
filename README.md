@@ -6,9 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopaldwivedii" alt="gopaldwivedii" /></a> </p>
 
 - 🔭 I’m currently working on [Civix](https://github.com/HarshS16/Civix)
-
-- 📫 How to reach me **gopal02112004@gmail.com**
+<p></p>
 ![Zaraki Kenpachi](assets/zaraki-kenpachi-kenpachi.gif)
+<p></p>
+- 📫 How to reach me **gopal02112004@gmail.com**
 
 <p></p>
 <h3 align="left">Connect with me:</h3>
