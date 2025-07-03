@@ -10,7 +10,7 @@
 
 <p></p>
 
-<img src="assets/zaraki-kenpachi-kenpachi.gif" alt="Zaraki Kenpachi" width="1300" height="400"/>
+<img src="assets/zaraki.gif" alt="Zaraki Kenpachi" width="1200" height="800"/>
 <p></p>
 
 <p></p>
