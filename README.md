@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gopal Dwivedi</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer, Freelancer from India</h3>
+<p></p>
+<h3 align="center">If you're planning to build a website, feel free to connect with me </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopaldwivedii&label=Profile%20views&color=0e75b6&style=flat" alt="gopaldwivedii" /> </p>
 
