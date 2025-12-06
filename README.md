@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopaldwivedii&label=Profile%20views&color=0e75b6&style=flat" alt="gopaldwivedii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopaldwivedii" alt="gopaldwivedii" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GopalDwivedii&theme=Transparent+background" alt="gopaldwivedii" /></a> </p>
 
 - 🔭 I’m currently working on [Civix](https://github.com/HarshS16/Civix)
 - 📫 How to reach me **gopal02112004@gmail.com** <p></p>
