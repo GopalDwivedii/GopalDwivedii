@@ -18,7 +18,7 @@
 
 <p></p>
 
-<img src="assets/zaraki.gif" alt="Zaraki Kenpachi" width="1200" height="800"/>
+<img src="https://totalwebdevelopment.in/images/home/20.gif" alt="Zaraki Kenpachi" width="1200" height="800"/>
 <p></p>
 
 
